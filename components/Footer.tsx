@@ -20,7 +20,7 @@ const Footer: React.FC = () => {
           ))}
         </div>
         <p>&copy; {new Date().getFullYear()} Ava Sterling. All Rights Reserved.</p>
-        <p className="text-sm mt-2">Designed with <i className="fa-solid fa-heart text-teal-500"></i> using React & Tailwind CSS.</p>
+        <p className="text-sm mt-2">Designed  by Davehenzy tech with <i className="fa-solid fa-heart text-teal-500"></i> using React & Tailwind CSS.</p>
       </div>
     </footer>
   );
